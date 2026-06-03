@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Jatin Panchal 👋
 
-<!--
-**jatinpanchalll/jatinpanchalll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Java
+- HTML
+- CSS
+- JavaScript
+- Data Structures & Algorithms
+
+🚀 Goals
+- Build real-world projects
+- Strengthen problem-solving skills
+- Become a Full Stack Developer
+
+📍 Indore, India
+
+🔗 LinkedIn:
+www.linkedin.com/in/jatinrpanchal
