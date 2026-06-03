@@ -19,4 +19,4 @@
 📍 Indore, India
 
 🔗 LinkedIn:
-www.linkedin.com/in/jatinrpanchal
+www.linkedin.com/in/jatinpanchalll
